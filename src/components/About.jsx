@@ -7,7 +7,7 @@ import Crypto3 from '../assets/images/svg/Crypto3.svg'
 import Crypto4 from '../assets/images/svg/Crypto4.svg'
 import Clock from '../assets/images/svg/clock.svg'
 import Dotted from '../assets/images/svg/dotted.svg'
-import Commonbtn from './Commonbtn'
+// import   from './ '
 import Dino from '../assets/images/webp/dino.webp'
 import Baricon from '../assets/images/webp/Bar-icon.webp'
 import Yellowline from '../assets/images/webp/yellow-line.webp'
@@ -157,7 +157,7 @@ const About = () => {
                         In this meme-driven world, laughter is not just a reaction; it's a powerful tool for change, and Baby Sinclair is wielding it with style. The bad players better watch out; the crypto defender is here, armed with memes and ready to act.
                     </h6>
                     <div className=" position-relative z-1">
-                        <Commonbtn name="Learn More" />
+                        {/* <  name="Learn More" /> */}
                     </div>
                 </div>
             </Container>
